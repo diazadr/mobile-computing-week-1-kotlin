@@ -1,4 +1,6 @@
-# ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
+# Mobile Computing
+
+![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
 This project is created for the **Mobile Computing** course. It includes learning materials about **Kotlin in Android Studio**, focusing on fundamental concepts such as **Intents, Implementations, and RecyclerView**.
 
@@ -11,26 +13,26 @@ This project is created for the **Mobile Computing** course. It includes learnin
 ## **Demo**
 
 ### **Studi Kasus 1 (Aplikasi Reservasi Hotel)**
-![Screenshot 1](https://github.com/user-attachments/assets/3c8d5bb2-f2ec-4721-ab21-786cf30a6b68)
-![Screenshot 2](https://github.com/user-attachments/assets/23b1cffd-0729-479a-838d-92f289ef16f0)
-![Screenshot 3](https://github.com/user-attachments/assets/c732afe9-ba3b-486c-8d1f-4f812dba4e16)
+<img src="https://github.com/user-attachments/assets/3c8d5bb2-f2ec-4721-ab21-786cf30a6b68" alt="Screenshot 1" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/23b1cffd-0729-479a-838d-92f289ef16f0" alt="Screenshot 2" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/c732afe9-ba3b-486c-8d1f-4f812dba4e16" alt="Screenshot 3" style="height: 300px; width: auto;">
 
 ### **Studi Kasus 2 (Aplikasi Pendaftaran Event)**
-![Screenshot 4](https://github.com/user-attachments/assets/96c570aa-610d-4cc7-900c-f0593ca0b6c5)
-![Screenshot 5](https://github.com/user-attachments/assets/49a0a574-2258-4d8b-a2b5-0077b41f7fa8)
-![Screenshot 6](https://github.com/user-attachments/assets/7e1de54b-a541-48ae-81f0-43367a36d758)
+<img src="https://github.com/user-attachments/assets/96c570aa-610d-4cc7-900c-f0593ca0b6c5" alt="Screenshot 4" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/49a0a574-2258-4d8b-a2b5-0077b41f7fa8" alt="Screenshot 5" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/7e1de54b-a541-48ae-81f0-43367a36d758" alt="Screenshot 6" style="height: 300px; width: auto;">
 
 ### **Studi Kasus 3 (Aplikasi Reservasi Restoran)**
-![Screenshot 7](https://github.com/user-attachments/assets/662e349e-7023-478e-a666-e964c3ad13fe)
-![Screenshot 8](https://github.com/user-attachments/assets/5aec4710-c432-4daf-9c69-5ab6d2cd9817)
-![Screenshot 9](https://github.com/user-attachments/assets/2d19a0eb-8c33-403d-89e2-9eee9b8eaa45)
+<img src="https://github.com/user-attachments/assets/662e349e-7023-478e-a666-e964c3ad13fe" alt="Screenshot 7" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/5aec4710-c432-4daf-9c69-5ab6d2cd9817" alt="Screenshot 8" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/2d19a0eb-8c33-403d-89e2-9eee9b8eaa45" alt="Screenshot 9" style="height: 300px; width: auto;">
 
 ### **Studi Kasus 4 (Pengelolaan Profil Pengguna)**
-![Screenshot 10](https://github.com/user-attachments/assets/fecf2d81-c3e2-4f52-a012-f8a1bf33fbfc)
-![Screenshot 11](https://github.com/user-attachments/assets/90ed1ddc-e036-4eb5-b589-a543cbc465bf)
-![Screenshot 12](https://github.com/user-attachments/assets/696e5a96-e17a-4392-a9ef-3aea62eb721e)
-![Screenshot 13](https://github.com/user-attachments/assets/572e2cc6-016c-4dd7-92c4-98806e99340b)
-![Screenshot 14](https://github.com/user-attachments/assets/5f84aade-89bf-4364-a1df-570ed9fa1ed8)
+<img src="https://github.com/user-attachments/assets/fecf2d81-c3e2-4f52-a012-f8a1bf33fbfc" alt="Screenshot 10" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/90ed1ddc-e036-4eb5-b589-a543cbc465bf" alt="Screenshot 11" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/696e5a96-e17a-4392-a9ef-3aea62eb721e" alt="Screenshot 12" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/572e2cc6-016c-4dd7-92c4-98806e99340b" alt="Screenshot 13" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/5f84aade-89bf-4364-a1df-570ed9fa1ed8" alt="Screenshot 14" style="height: 300px; width: auto;">
 
 ## **Setup**
 1. Clone the repository to your local machine.
