@@ -1,4 +1,4 @@
-# Mobile Computing
+# Mobile Computing Week 1
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
